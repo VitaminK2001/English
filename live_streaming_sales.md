@@ -1,6 +1,6 @@
 1 In recent years, live-streaming sales have become increasingly popular in China. This new form of shopping has been **embraced** by millions of consumers and has ***sparked a revolution*** in the e-commerce industry. Live-streaming sales, also known as “直播带货” in Chinese, refers to the practice of using live video streaming to sell products directly to customers.
 
-- embrace 拥抱包括欣然接受1
+- embrace 拥抱包括欣然接受
 
 2 There are many advantages to live-streaming sales. One of the biggest benefits is the ability to interact with customers in real-time. This allows for a more personalized shopping experience, and customers can ask questions and receive answers immediately. Additionally, live-streaming sales can help build brand **awareness** and loyalty, as customers feel more connected to the brand and its products.
 
@@ -15,7 +15,6 @@
 - engaging 引人入胜
 
 - showcasing 展示
-
 
 4 Despite the many advantages of live-streaming sales, there are also some disadvantages to consider. One of the biggest concerns is the potential for fraud and scams. With so many live-streaming sales taking place, it can be difficult for consumers to know which sellers are legitimate and which ones are not. This can lead to a loss of trust in the industry as a whole.
 
