@@ -2,6 +2,7 @@
 
 1. new form of sth
 2. embrace 拥抱包括欣然接受
+3. the practice of 实践
 
 2 There are many advantages to live-streaming sales. One of the biggest benefits is the ability to interact with customers in real-time. This allows for a more personalized shopping experience, and customers can ask questions and receive answers immediately. Additionally, live-streaming sales can help build brand **awareness** and loyalty, as customers **feel more connected to the brand** and its products.
 
