@@ -14,7 +14,7 @@
 就在声称未成年人沉迷电子游戏问题在实施屏幕时间限制后得到解决几个月后，中国当局被迫解决一个新的痴迷问题——短视频。
 
 1. address
-   1. This should form part of a wider package of measures to address the long-running problems on Britain's railways.这应该成为解决英国铁路长期存在的问题的更广泛一揽子措施的一部分。
+   1. This should form part of a wider package of measures to address the **long-running** problems on Britain's railways. 这应该成为解决英国铁路长期存在的问题的更广泛一揽子措施的一部分。
 
 3 In today's society, electronic devices have become an integral part of our daily lives, and controlling screen time has become a significant concern. **With the increase in** the use of electronic devices such as smartphones, tablets, and computers, people have **become more reliant** on them, **resulting in** longer screen time. While electronic devices have many benefits, **excessive** screen time can lead to negative consequences. Therefore, it is important to control screen time to **maintain a healthy lifestyle**.
 
