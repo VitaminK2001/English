@@ -46,6 +46,10 @@ Another disadvantage of streaming sales is the potential for fraud or identity t
 
 In conclusion, streaming sales offer many advantages to businesses and customers alike. They allow for wider reach and greater convenience in shopping, while also helping small businesses compete with larger companies. However, they also come with some disadvantages, such as the lack of personal interaction and the potential for fraud. As long as these drawbacks are taken into consideration and steps are taken to prevent them, streaming sales can be a valuable tool for any business looking to expand their customer base and increase their revenue.
 
+**offer many advantages to businesses and customers alike**
+
+**allow for wider reach and greater convenience in shopping**
+
 **lack of personal interaction**
 
 **potential for fraud**
