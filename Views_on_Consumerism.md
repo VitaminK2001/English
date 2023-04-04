@@ -14,7 +14,7 @@ This has resulted in the **depletion of natural resources** and the **generation
 
 leading to **negative consequences for** the environment and future generations.
 
-Secondly, consumerism can ****lead to an emphasis on materialism over values such as personal growth** and community involvement.
+Secondly, consumerism can **lead to an emphasis on materialism over values such as personal growth** and community involvement.
 
 The constant focus on acquiring more goods can lead to a lack of focus on more **meaningful aspects of life**, such as personal relationships and development.
 
