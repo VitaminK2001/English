@@ -1,4 +1,4 @@
-Everyone has their own personal philosophy towars life,
+Everyone has their own personal philosophy towards life,
 
 which is a set of beliefs and principles that guides our thoughts and actions.
 
@@ -12,7 +12,7 @@ For me, happiness comes from living a meaningful and fulfilling life,
 
 sourrounded by people I love and **doing work that I am passionate about**.
 
-I believe the power of postive thinking. Out **thoughts and attitudes shape our experiences**,
+I believe the power of postive thinking. Our **thoughts and attitudes shape our experiences**,
 
 and by maintaing a postive outlook, we can attract positivity into our lives.
 
